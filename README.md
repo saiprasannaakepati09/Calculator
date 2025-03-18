@@ -1,25 +1,26 @@
-ONLINE CALCULATOR 
+# ONLINE CALCULATOR 
 
-OVERVIEW
+## Overview 
 
   This is a simple web-based calculator built using HTML, and CSS. It provides basic arithmetic operations and a user-friendly interface.
 
-FEATURES 
+## Features 
 
-    Supports addition, subtraction, multiplication, and division.
+  Supports addition, subtraction, multiplication, and division.
 
-    Clear button to reset input.
+  Clear button to reset input.
 
-    Backspace functionality to delete the last digit.
+  Backspace functionality to delete the last digit.
 
-    Responsive and visually appealing design.
+  Responsive and visually appealing design.
 
-    Built using vanilla JavaScript, HTML, and CSS.
+  Built using vanilla JavaScript, HTML, and CSS.
 
-Technologies Used:
+## Technologies Used
 
-    HTML: Structure of the calculator.
+  HTML: Structure of the calculator.
 
-    CSS: Styling and layout.
+  CSS: Styling and layout.
 
-    JavaScript: Functionality for calculations.
+  JavaScript: Functionality for calculations.
+  
